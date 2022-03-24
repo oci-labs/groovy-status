@@ -2,9 +2,9 @@
 
 Apache Groovy Github Actions [status](https://github.com/apache/groovy/actions/workflows/groovy-build-test.yml)
 
-| Groovy 5_0_X | Groovy 4_0_X | Groovy 3_0_X | Groovy 2_5_X |
-| ------------ | ------------ | ------------ | ------------ |
-| ![Master](https://github.com/apache/groovy/actions/workflows/groovy-build-test.yml/badge.svg) | ![Groovy 4](https://github.com/apache/groovy/actions/workflows/groovy-build-test.yml/badge.svg?branch=GROOVY_4_0_X) | ![Groovy 3](https://github.com/apache/groovy/actions/workflows/build-test.yml/badge.svg?branch=GROOVY_3_0_X) | ![Groovy 2.5](https://github.com/apache/groovy/actions/workflows/build-test.yml/badge.svg?branch=GROOVY_2_5_X) |
+| [Groovy 5_0_X](https://github.com/apache/groovy/actions/workflows/groovy-build-test.yml?query=branch%3Amaster+event%3Apush) | [Groovy 4_0_X](https://github.com/apache/groovy/actions/workflows/groovy-build-test.yml?query=branch%3AGROOVY_4_0_X+event%3Apush) | [Groovy 3_0_X](https://github.com/apache/groovy/actions/workflows/groovy-build-test.yml?query=branch%3AGROOVY_3_0_X+event%3Apush) | [Groovy 2_5_X](https://github.com/apache/groovy/actions/workflows/groovy-build-test.yml?query=branch%3AGROOVY_2_5_X+event%3Apush) |
+|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| ![Master](https://github.com/apache/groovy/actions/workflows/groovy-build-test.yml/badge.svg)                               | ![Groovy 4](https://github.com/apache/groovy/actions/workflows/groovy-build-test.yml/badge.svg?branch=GROOVY_4_0_X)               | ![Groovy 3](https://github.com/apache/groovy/actions/workflows/build-test.yml/badge.svg?branch=GROOVY_3_0_X)                      | ![Groovy 2.5](https://github.com/apache/groovy/actions/workflows/build-test.yml/badge.svg?branch=GROOVY_2_5_X)                    |
 
 Teamcity [status](https://ci.groovy-lang.org?guest=1)
 
